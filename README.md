@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on devOps materials 
 - 📫 How to reach me LINKEDIN URL
 www.linkedin.com/in/kunal-kaushik-20252a263
-lordkunalkaushik/lordkunalkaushik is a ✨ special ✨ repository because its `README.md` (DEVOPS AWS NOTES) appears on your GitHub profile.
+lordkunalkaushik/chhunna is a ✨ special ✨ repository because its `README.md` (DEVOPS AWS NOTES) appears on your GitHub profile.
